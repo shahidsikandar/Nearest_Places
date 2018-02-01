@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">Nearest Places</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" 
+        translatable="false">AIzaSyDA76crfuBpTeKz3XLYkMOSBuCVfjPKfog</string>
+    
+    <string name="places_prompt">Select place type</string>
+
+    <string-array name="places_array_name">
+        <item>Airports</item>
+        <item>Play Lands</item>
+        <item>Art Galleries</item>
+        <item>ATM</item>
+        <item>Banks</item>
+        <item>Bakeries</item>
+        <item>Bowling Alley</item>
+        <item>Beauty Saloons</item>
+        <item>Beauty Clinic's and SPA</item>
+        <item>Book Stores</item>
+        <item>Bus Stops</item>
+        <item>Car Dealer</item>
+        <item>Car Rentals</item>
+        <item>Car Repairs</item>
+        <item>Car Wash</item>
+        <item>Graveyards</item>
+        <item>Church</item>
+        <item>City Hall's</item>
+        <item>Garment Shop's</item>
+        <item>Court's</item>
+        <item>Dentist</item>
+        <item>Departmental Stores</item>
+        <item>Doctor</item>
+        <item>Electronic Stores</item>
+        <item>Travel Agencies</item>
+        <item>Fire Station</item>
+        <item>Flower Shops</item>
+        <item>Furniture Shops</item>
+        <item>Restaurants</item>
+        <item>Fitness Centers</item>
+        <item>Gas Stations</item>
+        <item>Hospitals</item>
+        <item>Hotels</item>
+        <item>Hardware Stores</item>
+        <item>Insurance Agencies</item>
+        <item>Jewelry Stores</item>
+        <item>Laundry</item>
+        <item>Libraries</item>
+        <item>Local Govt. Offices</item>
+        <item>Post offices</item>
+        <item>Mosques</item>
+        <item>Cinema's</item>
+        <item>Museum</item>
+        <item>Pet Stores</item>
+        <item>Parks</item>
+        <item>Pharmacy</item>
+        <item>Police Station</item>
+        <item>Real Estate Agencies</item>
+        <item>Schools</item>
+        <item>Shopping Mall's</item>
+        <item>Universities and Colleges</item>
+        <item>Super Markets</item>
+        <item>Stadiums</item>
+        <item>Subway Station</item>
+        <item>Taxi Stands</item>
+        <item>Railway Stations</item>
+        <item>ZOO</item>
+    </string-array>
+
+    <string-array name="places_type">
+        <item>airport</item>
+        <item>amusement_park</item>
+        <item>art_gallery</item>
+        <item>atm</item>
+        <item>bank</item>
+        <item>bakery</item>
+        <item>bowling_alley</item>
+        <item>beauty_salon</item>
+        <item>spa</item>
+        <item>book_store</item>
+        <item>bus_station</item>
+        <item>car_dealer</item>
+        <item>car_rental</item>
+        <item>car_repair</item>
+        <item>car_wash</item>
+        <item>cemetery</item>
+        <item>church</item>
+        <item>city_hall</item>
+        <item>clothing_store</item>
+        <item>courthouse</item>
+        <item>dentist</item>
+        <item>department_store</item>
+        <item>doctor</item>
+        <item>electronics_store</item>
+        <item>travel_agency</item>
+        <item>fire_station</item>
+        <item>florist</item>
+        <item>furniture_store</item>
+        <item>restaurant</item>
+        <item>gym</item>
+        <item>gas_station</item>
+        <item>hospital</item>
+        <item>lodging</item>
+        <item>hardware_store</item>
+        <item>insurance_agency</item>
+        <item>jewelry_store</item>
+        <item>laundry</item>
+        <item>library</item>
+        <item>local_government_office</item>
+        <item>post_office</item>
+        <item>mosque</item>
+        <item>movie_theater</item>
+        <item>museum</item>
+        <item>pet_store</item>
+        <item>park</item>
+        <item>pharmacy</item>
+        <item>police</item>
+        <item>real_estate_agency</item>
+        <item>school</item>
+        <item>shopping_mall</item>
+        <item>university</item>
+        <item>supermarket</item>
+        <item>stadium</item>
+        <item>subway_station</item>
+        <item>taxi_stand</item>
+        <item>train_station</item>
+        <item>zoo</item>
+
+    </string-array>
+
+</resources>

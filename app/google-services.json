@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "580975754859",
+    "firebase_url": "https://nearestplaces-4eeca.firebaseio.com",
+    "project_id": "nearestplaces-4eeca",
+    "storage_bucket": "nearestplaces-4eeca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580975754859:android:667f424526b02879",
+        "android_client_info": {
+          "package_name": "com.example.administrator.nearestplaces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580975754859-mvko949nf4l4k04km881pac9rq41nmno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4wdh4B3y_V5EPsAzXcvD7ZUeoQPyb8Y4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
